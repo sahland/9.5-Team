@@ -1,0 +1,6 @@
+[submodule "Learning-Platform.Backend"]
+	path = Learning-Platform.Backend
+	url = https://github.com/sahland/Learning-Platform.Backend
+[submodule "Learning-Platform.Frontend"]
+	path = Learning-Platform.Frontend
+	url = https://github.com/sahland/Learning-Platform.Frontend
