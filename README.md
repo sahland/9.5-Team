@@ -2,9 +2,9 @@
 ## ТП 9.5
 ### Авторы
 
-- [Александр Павлов](https://www.github.com/octokatherine) - 
-- [Евгений Акимушкин](https://www.github.com/octokatherine) - 
-- [Константин Перепечко](https://www.github.com/octokatherine) - 
+- [Александр Павлов](-) - 
+- [Евгений Акимушкин](-) - 
+- [Константин Перепечко](-) - 
 
 **Тема:**
 
