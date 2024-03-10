@@ -13,7 +13,7 @@
 **Нововведения:**
 ### Сервисы
 
-* [YouTrack](https://95team.youtrack.cloud/projects/dbc71114-c042-427a-92e3-5a02d67638e3)
+* [YouTrack](https://miro.com/app/board/uXjVNliHsv0=/?share_link_id=102042795873)
 * [Miro](https://miro.com/welcomeonboard/a052V091UmVuVHZPdU1USllDODY0elIzVHVyaXRqcjNvM3R6VmdLZjhHUGF4Q2hkaDR3bkxvQzhPY3Qwd2FHM3wzNDU4NzY0NTc5MDcyMzYwNDkxfDI=?share_link_id=64277432096)
 * [Figma](https://www.figma.com/file/X4nxU0rHhk9jvTdKBjukV8/Team9.5?type=design&node-id=0-1&mode=design&t=9WvKeB6gwpQcoGDH-0)
 
