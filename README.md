@@ -18,9 +18,9 @@
 * [Figma](https://www.figma.com/file/X4nxU0rHhk9jvTdKBjukV8/Team9.5?type=design&node-id=0-1&mode=design&t=9WvKeB6gwpQcoGDH-0)
 
 ### Документация
-* Курсовой проект
-* Техническое задание
-* Сопроводительное письмо
+* Курсовой проект [Docx]() [Pdf]()
+* Техническое задание [Docx](https://github.com/sahland/9.5-Team/blob/main/documentation/Техническое_Задание.docx) [Pdf](https://github.com/sahland/9.5-Team/blob/main/documentation/Техническое_Задание.pdf)
+* Сопроводительное письмо [Docx]() [Pdf]()
 ### Презентация проекта
 ### Аналитика приложения
 ### Инструкция для запуска
