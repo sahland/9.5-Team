@@ -20,9 +20,9 @@
 * Курсовой проект [Docx]() [Pdf]()
 * Техническое задание [Docx](https://github.com/sahland/9.5-Team/blob/main/documentation/Техническое_Задание.docx) [Pdf](https://github.com/sahland/9.5-Team/blob/main/documentation/Техническое_Задание.pdf)
 * Сопроводительное письмо [Docx](https://github.com/sahland/9.5-Team/blob/main/documentation/Сопроводительное_Письмо.docx) [Pdf](https://github.com/sahland/9.5-Team/blob/main/documentation/Сопроводительное_Письмо.pdf)
-* [Оформительские задачи](https://github.com/sahland/9.5-Team/blob/main/documentation/Оформительские%20задачи.png)
+* Оформительские задачи [Фото](https://github.com/sahland/9.5-Team/blob/main/documentation/Оформительские%20задачи/Фото.png) [Скан](https://github.com/sahland/9.5-Team/blob/main/documentation/Оформительские%20задачи/Скан.jpg)
 ### Презентация проекта
-* [Презентация ТЗ (Видео)](https://drive.google.com/file/d/1EyjUovbhz4nemzknV9GLtkjeoAhkdzpn/view?usp=sharing)
+* [Презентация ТЗ (Видео)](https://drive.google.com/file/d/1mrQRvz0aOmG7_AM8kgWZ-Bi1ncw7Gtkv/view?usp=sharing)
 * Презентация [Pdf](https://github.com/sahland/9.5-Team/blob/main/documentation/Презентация_KnitWit.pdf) [Pptx](https://github.com/sahland/9.5-Team/blob/main/documentation/Презентация_KnitWit.pptx)
 ### Аналитика приложения
 ### Инструкция для запуска
