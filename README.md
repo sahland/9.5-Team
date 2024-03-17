@@ -10,7 +10,6 @@
 
 Платформа для онлайн-обучения ремеслам и хобби
 
-**Нововведения:**
 ### Сервисы
 
 * [YouTrack](https://95team.youtrack.cloud/projects/dbc71114-c042-427a-92e3-5a02d67638e3)
@@ -20,7 +19,10 @@
 ### Документация
 * Курсовой проект [Docx]() [Pdf]()
 * Техническое задание [Docx](https://github.com/sahland/9.5-Team/blob/main/documentation/Техническое_Задание.docx) [Pdf](https://github.com/sahland/9.5-Team/blob/main/documentation/Техническое_Задание.pdf)
-* Сопроводительное письмо [Docx]() [Pdf]()
+* Сопроводительное письмо [Docx](https://github.com/sahland/9.5-Team/blob/main/documentation/Сопроводительное_Письмо.docx) [Pdf](https://github.com/sahland/9.5-Team/blob/main/documentation/Сопроводительное_Письмо.pdf)
+* [Оформительские задачи](https://github.com/sahland/9.5-Team/blob/main/documentation/Оформительские%20задачи.png)
 ### Презентация проекта
+* [Презентация ТЗ (Видео)](https://drive.google.com/file/d/1EyjUovbhz4nemzknV9GLtkjeoAhkdzpn/view?usp=sharing)
+* Презентация [Pdf](https://github.com/sahland/9.5-Team/blob/main/documentation/Презентация_KnitWit.pdf) [Pptx](https://github.com/sahland/9.5-Team/blob/main/documentation/Презентация_KnitWit.pptx)
 ### Аналитика приложения
 ### Инструкция для запуска
