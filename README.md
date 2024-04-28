@@ -17,7 +17,7 @@
 * [Figma](https://www.figma.com/file/X4nxU0rHhk9jvTdKBjukV8/Team9.5?type=design&node-id=0-1&mode=design&t=9WvKeB6gwpQcoGDH-0)
 
 ### Документация
-* Курсовой проект [Docx]() [Pdf]()
+* Курсовой проект [Docx](https://github.com/sahland/9.5-Team/blob/main/documentation/Курсовой%20проект.docx) [Pdf](https://github.com/sahland/9.5-Team/blob/main/documentation/Курсовой%20проект.pdf)
 * Техническое задание [Docx](https://github.com/sahland/9.5-Team/blob/main/documentation/Техническое_Задание.docx) [Pdf](https://github.com/sahland/9.5-Team/blob/main/documentation/Техническое_Задание.pdf)
 * Сопроводительное письмо [Docx](https://github.com/sahland/9.5-Team/blob/main/documentation/Сопроводительное_Письмо.docx) [Pdf](https://github.com/sahland/9.5-Team/blob/main/documentation/Сопроводительное_Письмо.pdf)
 * Оформительские задачи [Фото](https://github.com/sahland/9.5-Team/blob/main/documentation/Оформительские%20задачи/Фото.png) [Скан](https://github.com/sahland/9.5-Team/blob/main/documentation/Оформительские%20задачи/Скан.jpg)
