@@ -24,5 +24,6 @@
 ### Презентация проекта
 * [Презентация ТЗ (Видео)](https://drive.google.com/file/d/1mrQRvz0aOmG7_AM8kgWZ-Bi1ncw7Gtkv/view?usp=sharing)
 * Презентация [Pdf](https://github.com/sahland/9.5-Team/blob/main/documentation/Презентация_KnitWit.pdf) [Pptx](https://github.com/sahland/9.5-Team/blob/main/documentation/Презентация_KnitWit.pptx)
+* [Видеообзор приложения](https://drive.google.com/file/d/1CLwlhi2ru_IKvSToGcqOwq6mXAzgPfcD/view?usp=sharing)
 ### Аналитика приложения
 ### Инструкция для запуска
