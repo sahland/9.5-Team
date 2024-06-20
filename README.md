@@ -15,6 +15,10 @@
 * [Back-end](https://github.com/sahland/Learning-Platform.Backend/tree/main)
 * [Front-end](https://github.com/sahland/Learning-Platform.Frontend/tree/main)
 
+### Ссылка на скачивание .apk файла
+
+*[APK File](https://disk.yandex.ru/d/BdHCRqkxPFi7KQ)
+
 ### Сервисы
 
 * [YouTrack](https://95team.youtrack.cloud/projects/dbc71114-c042-427a-92e3-5a02d67638e3)
