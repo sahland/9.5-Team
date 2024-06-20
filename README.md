@@ -17,7 +17,7 @@
 
 ### Ссылка на скачивание .apk файла
 
-*[APK File](https://disk.yandex.ru/d/BdHCRqkxPFi7KQ)
+* [APK File](https://disk.yandex.ru/d/BdHCRqkxPFi7KQ)
 
 ### Сервисы
 
