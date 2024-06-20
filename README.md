@@ -39,3 +39,4 @@
 * [Видеообзор приложения](https://drive.google.com/file/d/1CLwlhi2ru_IKvSToGcqOwq6mXAzgPfcD/view?usp=sharing)
 * [Видеообзор архитектуры клиентской части](https://drive.google.com/file/d/1Pl3TZSJQ9Jxn8PboaPkfX82dgADqyoAy/view?usp=sharing)
 * [Видеообзор архитектуры серверной части](https://drive.google.com/file/d/1rgxUS7-FJB_-qEuoDU862YOAu1T8butL/view?usp=sharing)
+* [Видеообзор приложения 3 аттестация](https://drive.google.com/file/d/1yFK_TFfr891n4Ecvbr-cN1Orwp65ZqZZ/view?usp=drive_link)
