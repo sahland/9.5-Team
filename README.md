@@ -4,11 +4,16 @@
 
 - [Александр Павлов](https://github.com/sahland) - Тимлид, Front-end разработчик, PM, Дизайнер
 - [Евгений Акимушкин](https://github.com/Eternity321) - Back-end разработчик, Системный аналитик
-- [Константин Перепечко](https://github.com/KoPerKo5) - Тестировщик, Технический писатель
+- [Константин Перепечко](https://github.com/KoPerKo5)(покинул команду) - Тестировщик, Технический писатель
 
 **Тема:**
 
 Платформа для онлайн-обучения ремеслам и хобби
+
+### Подмодули разрабатываемого сервиса
+
+* [Back-end](https://github.com/sahland/Learning-Platform.Backend/tree/main)
+* [Front-end](https://github.com/sahland/Learning-Platform.Frontend/tree/main)
 
 ### Сервисы
 
@@ -30,8 +35,3 @@
 * [Видеообзор приложения](https://drive.google.com/file/d/1CLwlhi2ru_IKvSToGcqOwq6mXAzgPfcD/view?usp=sharing)
 * [Видеообзор архитектуры клиентской части](https://drive.google.com/file/d/1Pl3TZSJQ9Jxn8PboaPkfX82dgADqyoAy/view?usp=sharing)
 * [Видеообзор архитектуры серверной части](https://drive.google.com/file/d/1rgxUS7-FJB_-qEuoDU862YOAu1T8butL/view?usp=sharing)
-
-### Подмодули разрабатываемого сервиса
-
-* [Back-end](https://github.com/sahland/Learning-Platform.Backend/tree/main)
-* [Front-end](https://github.com/sahland/Learning-Platform.Frontend/tree/main)
